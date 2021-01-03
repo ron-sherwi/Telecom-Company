@@ -15,6 +15,10 @@ Identify operators that have:
 - <u> Data preprocessing </u>
 - <u>  EDA </u>
 - <u> Define effective & ineffective operators </u>
+    - <b> Give a rank for each operator based on something like RFM analysis: </b>
+      - Number of missed incoming calls
+      - Waiting time for incoming calls
+      - Number of outgoing calls
 - <u> Test statistical hypotheses </u>
 
 ### Datasets:
