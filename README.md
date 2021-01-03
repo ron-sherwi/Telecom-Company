@@ -1,5 +1,4 @@
 # Telecom-Company 
-### Description of the data:
 The datasets contain data on the use of the virtual telephony service CallMeMaybe. Its clients are organizations that need to distribute large numbers of incoming calls among various operators, or make outgoing calls through their operators. Operators can also make internal calls to communicate with one another. These calls go through CallMeMaybe's network.
 
 ### Goal:
