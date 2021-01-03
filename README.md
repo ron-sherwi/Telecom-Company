@@ -16,9 +16,9 @@ Identify operators that have:
 - <u>  EDA </u>
 - <u> Define effective & ineffective operators </u>
     - <b> Give a rank for each operator based on something like RFM analysis: </b>
-      - Number of missed incoming calls
-      - Waiting time for incoming calls
-      - Number of outgoing calls
+      - <b> Number of missed incoming calls </b>
+      - <b> Waiting time for incoming calls </b>
+      - <b> Number of outgoing calls </b>
 - <u> Test statistical hypotheses </u>
 
 ### Datasets:
