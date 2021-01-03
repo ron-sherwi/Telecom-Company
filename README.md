@@ -21,7 +21,7 @@ Identify operators that have:
 
 ### Mandatory stages of analysis:
 
-- <u> <a href="#first_step"> Data preprocessing: </a> </u>
+- <u> Data preprocessing: </u>
     - Study missing values
     - Study duplicate values
     - Check the correctness of column names
@@ -29,17 +29,16 @@ Identify operators that have:
     - Remove duplicates
     - Convert types
     - Replace missing values
-- <u>  <a href="#second_step"> EDA: </a> </u>
+- <u>  EDA: </u>
     - Check distribution of calls & duration.
     - Find outliers - remove or correct.
     - Check correlations between the columns.
-- <u> <a href="#third_step"> Define effective & ineffective operators: </a> </u>
+- <u> Define effective & ineffective operators: </u>
     - Give a rank for each operator based on something like RFM analysis: 
         - Number of missed incoming calls
         - Waiting time for incoming calls
-        - Number of outgoing calls or 
-    - Use clustering model to divide the operators to groups.
-- <u> <a href="#fourth_step"> Test statistical hypotheses: </a> </u>
+        - Number of outgoing calls
+- <u> Test statistical hypotheses: </u>
     - Difference between the average incoming calls waiting time of effective and ineffective operators.
     - Difference between the proportions of missed incoming calls of effective and ineffective operators. 
     - Difference between the average number of outgoing calls of effective and ineffective operators. 
